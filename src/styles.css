@@ -1,0 +1,18 @@
+body {
+    margin: 35px;
+}
+
+.column, .review-container, .average-rating-container, .sentiment-analysis-container, .website-visitor-container {
+    background-color: black;
+    opacity: 80%;
+    color: white;
+    margin: 25px;
+    padding: 10px;
+}
+
+.column-margin, .review-margin, .average-rating-margin, .sentiment-analysis-margin, .website-visitor-margin {
+    margin: 25px;
+}
+
+
+
