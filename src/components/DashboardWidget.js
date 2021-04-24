@@ -1,6 +1,7 @@
 function DashboardWidget() {
 
     return (
+      <div class="dashboard-widget-container">
         <div className="column">
           <div className="column-margin">
           <h4>Dashboard</h4>  
@@ -11,6 +12,7 @@ function DashboardWidget() {
           <h4>Settings</h4>
           </div>
         </div>
+      </div>
     );
 }
 

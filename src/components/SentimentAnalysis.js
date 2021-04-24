@@ -2,6 +2,7 @@ function SentimentAnalysis () {
     return (
 
         <>
+        <div class="container">
         <div className="sentiment-analysis-container">
             <div className="sentiment-analysis-margin">
                 <h4>Sentiment Analysis</h4>
@@ -9,6 +10,7 @@ function SentimentAnalysis () {
                 <div>120</div>
                 <div>321</div>
             </div>
+        </div>
         </div>
         </>
 

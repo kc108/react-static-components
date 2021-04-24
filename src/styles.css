@@ -14,5 +14,17 @@ body {
     margin: 25px;
 }
 
+.review-container, .average-rating-container, .sentiment-analysis-container {
+    width: 30%;
+    padding-bottom: 25%;
+    
+}
 
+.dashboard-widget-container {
+    width: 20%; 
+    
+}
 
+.resize-website {
+    padding-left: 21%;
+}
