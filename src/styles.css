@@ -1,7 +1,6 @@
-body {
+/* body {
     margin: 35px;
-}
-
+} */
 .column, .review-container, .average-rating-container, .sentiment-analysis-container, .website-visitor-container {
     background-color: black;
     opacity: 80%;
@@ -9,22 +8,16 @@ body {
     margin: 25px;
     padding: 10px;
 }
-
 .column-margin, .review-margin, .average-rating-margin, .sentiment-analysis-margin, .website-visitor-margin {
-    margin: 25px;
+    /* margin: 25px; */
 }
-
 .review-container, .average-rating-container, .sentiment-analysis-container {
-    width: 30%;
+    /* width: 30%; */
     padding-bottom: 25%;
-    
 }
-
 .dashboard-widget-container {
-    width: 20%; 
-    
+    /* width: 20%;  */
 }
-
 .resize-website {
-    padding-left: 21%;
+    /* padding-left: 21%; */
 }
